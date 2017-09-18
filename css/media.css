@@ -86,13 +86,11 @@ Header Area
     .header .app_content h3 {
         font-size: 18px;
         color: #fff;
-        font-family: fantasy;
         font-weight: 300;
         color: #fff;
     }
     .header .app_content p {
         font-size: 12px;
-        font-family: fantasy;
         font-weight: 300;
         color: #D4D4D5;
     }
@@ -623,13 +621,11 @@ Header Area
     .header .app_content h3 {
         font-size: 18px;
         color: #fff;
-        font-family: fantasy;
         font-weight: 300;
         color: #fff;
     }
     .header .app_content p {
         font-size: 12px;
-        font-family: fantasy;
         font-weight: 300;
         color: #D4D4D5;
     }
